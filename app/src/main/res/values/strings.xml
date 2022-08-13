@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorageandRealTime</string>
+    <string name="text">Text</string>
+    <string name="save">Save</string>
+    <string name="image">Image</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+</resources>

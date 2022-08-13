@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725740842469",
+    "project_id": "firebathrealtime",
+    "storage_bucket": "firebathrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725740842469:android:c9fc57eec20a7fc84d530c",
+        "android_client_info": {
+          "package_name": "develop.abdusamid.storageandrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725740842469-b3vgiphumht7t2fcpf90016jd7hr3ahp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8JdlxPKA1K6Plf9mJb18vqAd6_Z4W_NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725740842469-b3vgiphumht7t2fcpf90016jd7hr3ahp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
